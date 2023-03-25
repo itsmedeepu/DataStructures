@@ -99,6 +99,7 @@ public class CircularDoublyLikedList {
 
   @Override
   public String toString() {
+    if(size()==0) return "[]"
 
     String s = "[" + first.e;
     Node curr = first.next;
@@ -113,6 +114,7 @@ public class CircularDoublyLikedList {
   }
 
   public String reverse() {
+    if(size()==0) return "[]"
 
     String s = "[" + first.prev.e;
     Node curr = first.prev;
@@ -146,6 +148,12 @@ public class CircularDoublyLikedList {
     }
     return curr.e;
 
+  }
+
+  public boolean isEmpty(){
+
+    if(size()==0) return true;
+    return false;
   }
 
 }
