@@ -7,6 +7,7 @@ A collection of common data structures implemented in Java, including:
   - Single Linked List
   - Doubly Linked List
   - Circular Single Linked List
+  - Circular Doubly Linked List
 - Stack
 - Queue
 - Set
