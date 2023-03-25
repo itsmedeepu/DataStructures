@@ -50,4 +50,8 @@ A tree structure where each node has a value that is greater than all the values
   - Level Order
   - Depth Order
 ## Author
-[DEEPAK S]
+<a href="https://github.com/itsmedeepu" tite="deepu"><img src="https://avatars.githubusercontent.com/u/90121947?v=4" width="50px" height="50px"></a>
+
+## Contributors
+ <a href="https://github.com/itsmedeepu" tite="deepu"><img src="https://avatars.githubusercontent.com/u/90121947?v=4" width="50px" height="50px"></a>
+  <a href="https://github.com/deekshugowdan" style="border-radius:20px;" tite="deeksha"><img src="https://avatars.githubusercontent.com/u/90185015?v=4" width="50px" height="50px"></a>
