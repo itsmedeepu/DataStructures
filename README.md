@@ -23,17 +23,26 @@ A collection of common data structures implemented in Java, including:
 
 A dynamic data structure that can store an unlimited number of elements, implemented as a resizable array.
 
+<img src="https://www.scientecheasy.com/wp-content/uploads/2018/11/arraylist-diagram.png" height="300px" />
+
 ## Linked List
 
 A linear structure where elements point to the next/previous element, offering constant-time insertions/deletions.
+
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png" height="200px"/>
 
 ## Stack
 
 A last-in-first-out (LIFO) data structure with constant-time access, insertions, and deletions.
 
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219100314/stack.drawio2.png" />
+
 ## Queue
 
 A first-in-first-out (FIFO) data structure with constant-time access, insertions, and deletions.
+
+
+ <img src="https://logicmojo.com/assets/dist/new_pages/images/Queue.png" height="200px" />
 
 ## Set
 
@@ -42,6 +51,8 @@ A collection of unique elements, with operations for adding, removing, and check
 ## Binary Search Tree
 
 A tree structure where each node has a value that is greater than all the values in its left sub-tree and less than all the values in its right sub-tree.
+
+ <img src="https://media.geeksforgeeks.org/wp-content/uploads/BST.png" height="300px"  />
 
 - Types of Traversals:
   - In-Order
