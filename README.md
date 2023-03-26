@@ -13,6 +13,42 @@ A collection of common data structures implemented in Java, including:
 - Set
 - Binary Search Tree
 
+Search and Sort Algorithms
+
+-Bubble Sort
+Selection Sort
+Merge Sort
+Insertion Sort
+Quick Sort
+Searching Algorithms
+Linear Search
+Binary Search
+Each algorithm has its own Python file in the repository. The files are named according to the algorithm they implement.
+
+To use any of the algorithms, simply import the corresponding function from
+
+
+
+
+DEEPAK S
+generta in copyable format
+Sure, here's a copyable version of the readme file:
+
+Sorting and Searching Algorithms
+This repository contains implementation of various sorting and searching algorithms in Python.
+
+# Sorting Algorithms
+- Bubble Sort
+- Selection Sort
+- Merge Sort
+- Insertion Sort
+- Quick Sort
+
+# Search Algorithms
+
+- Linear Search
+- Binary Search
+
 ## Getting Started
 
 1. Clone the repository
