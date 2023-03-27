@@ -43,6 +43,7 @@ This repository contains implementation of various sorting and searching algorit
 - Merge Sort
 - Insertion Sort
 - Quick Sort
+- Counting Sort
 
 # Search Algorithms
 
