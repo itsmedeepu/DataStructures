@@ -134,5 +134,17 @@ public class BinarySearchTree {
 		inOrderTrav(n.right);
 
 	}
+	public boolean find(int ele){
+		if(isEmpty()) return false;
+		boolean value=findNumber(ele, root);
+		return value;
+	}
+
+	private boolean findNumber(int ele,Node n){
+		if(n==null) return false;
+		if(ele>n.ele) return findNumber(ele, n.right);
+		else if(ele<n.ele) return findNumber(ele,n.left);
+		else return true;
+	}
 
 }
